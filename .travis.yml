@@ -9,3 +9,8 @@ script:
    - make lint
    - make test
    - make docker_build
+
+deploy:
+  provider: heroku
+  app: lit-harbor-41646
+  api_key: ${HEROKU_API_KEY}
