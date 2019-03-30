@@ -13,4 +13,4 @@ script:
 deploy:
   provider: heroku
   app: lit-harbor-41646
-  api_key: ${HEROKU_API_KEY}
+  api_key: ${c6e492c8-553d-41da-bd63-7abb0997293f}
