@@ -1,7 +1,9 @@
+
+
 Simple Flask App
 ================
 
-Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć 
+Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - Rozpocząnając pracę z projektem (wykorzystując virtualenv). Hermetyczne środowisko dla pojedyńczej aplikacji w python-ie:
@@ -10,7 +12,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
     # centos, add to ~/.bashrc
     source /usr/bin/virtualenvwrapper.sh
-    
+
     # ubuntu, add to ~/.bashrc
     source /usr/local/bin/virtualenvwrapper.sh
 
@@ -20,7 +22,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - Uruchamianie applikacji:
 
-  :: 
+  ::
 
     # jako zwykły program
     python main.py
@@ -75,10 +77,10 @@ Centos
     pip install -U pip
     pip install virtualenv
     pip install virtualenvwrapper
-  
+
 - Instalacja docker-a:
 
-  :: 
+  ::
 
     yum remove docker \
         docker-common \
