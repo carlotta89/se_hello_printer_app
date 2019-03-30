@@ -53,10 +53,6 @@ TravisCI
 .. image:: https://travis-ci.org/carlotta89/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/carlotta89/se_hello_printer_app
 
-StatusCake
-.. image:: https://app.statuscake.com/UptimeStatus.php?tid=3976207
-    :target: https://app.statuscake.com/button/index.php?Track=yll0Jc3Yc6&Days=1&Design=1" /></a>
-
 
 Pomocnicze
 ==========
