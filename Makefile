@@ -23,7 +23,7 @@ docker_run: docker_build
 	 -d hello-world-printer
 
 test_cov:
-	PYTHONPATH=. py.test --verbose -s --cov=.
+
 	PYTHONPATH=. py.test --verbose -s --cov=. --cov-report xml
 
 test_xunit:
